@@ -29,7 +29,8 @@ auto
 - CONTEÚDOS
 - INFORMAÇÕES
 
-[Criando um Container de uma Aplicação WEB](https://web.dio.me/lab/criando-um-container-de-uma-aplicacao-web/learning/ab0654f1-b0fe-4cc6-8632-533d07887bac)[Entendendo o Desafio e Materiais Complementares](https://web.dio.me/lab/criando-um-container-de-uma-aplicacao-web/learning/fc09b509-1cf3-4dbb-b2da-7455065d3e25)
+- [Criando um Container de uma Aplicação WEB](https://web.dio.me/lab/criando-um-container-de-uma-aplicacao-web/learning/ab0654f1-b0fe-4cc6-8632-533d07887bac)
+- [Entendendo o Desafio e Materiais Complementares](https://web.dio.me/lab/criando-um-container-de-uma-aplicacao-web/learning/fc09b509-1cf3-4dbb-b2da-7455065d3e25)
 
 
 
